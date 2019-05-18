@@ -1,6 +1,5 @@
-on: 0.2
-
+version: 0.2
 phases:
   build:
     commands:
-      - echo It works!
+			- echo Entered the build phase
