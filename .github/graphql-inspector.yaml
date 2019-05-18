@@ -1,0 +1,4 @@
+diff: true # enables Schema Comparison (reject PR on breaking changes)
+schema:
+  ref: master # branch, SHA
+  path: src/schema.gql # an output of `$ graphql-inspector introspect ...`
