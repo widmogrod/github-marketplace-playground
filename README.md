@@ -1,4 +1,5 @@
 #Introduction
-Something awesome about this project.
+Playground with the Terraform and AWS code build.
+
 
 ![](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiT2NUaFpIOEZTSmtZNnZBdTNsNjl2S0VUWDVMQUNkYzZGVGpDQ3dhcW1mR2pYVXpZSXVVSW9tMDlEM0tSdXVZQ1VYOFNkQUx3c1FpRmtJVWZ1U3NWNW9JPSIsIml2UGFyYW1ldGVyU3BlYyI6IkUwT1FaU0JxcmRqRGNOVVMiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
