@@ -1,3 +1,7 @@
+type Answer {
+  id ID!
+}
+
 type Question {
   id ID!
   name String!
