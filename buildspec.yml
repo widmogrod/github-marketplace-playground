@@ -10,3 +10,4 @@ phases:
 artifacts:
   files:
     -  README.md
+    - imagedefinitions.json
