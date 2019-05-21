@@ -1,6 +1,6 @@
 [
   {
-    "name": "sample-app",
+    "name": "test_task_def:1",
     "imageUri": "httpd:latest"
   }
 ]
