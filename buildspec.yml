@@ -12,4 +12,3 @@ artifacts:
   files:
     - '**/*'
   name: $(CODEBUILD_SOURCE_VERSION)-$(date +%Y-%m-%d) 
-  
