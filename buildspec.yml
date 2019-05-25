@@ -11,4 +11,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  name: $(CODEBUILD_SOURCE_VERSION)-$(date +%Y-%m-%d) 
+  name: my-$(CODEBUILD_SOURCE_VERSION)-$(date +%Y-%m-%d) 
