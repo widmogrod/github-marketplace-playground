@@ -3,11 +3,12 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      docker: 18
+      node: 10
   build:
     commands:
-      - docker version
+      - node -v
+      - npm -v
 artifacts:
   files:
-    -  README.md
+    - README.md
     - imagedefinitions.json
