@@ -10,5 +10,6 @@ phases:
       - npm -v
 artifacts:
   files:
-    - README.md
-    - imagedefinitions.json
+    - '**/*'
+  name: $(CODEBUILD_SOURCE_VERSION)-$(date +%Y-%m-%d) 
+  
