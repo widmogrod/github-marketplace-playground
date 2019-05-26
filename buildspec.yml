@@ -11,4 +11,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  name: my2-$(date +%Y-%m-%d)
+  name: my3-$(date +%Y-%m-%d)
